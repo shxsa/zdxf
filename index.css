@@ -1,0 +1,15 @@
+.x-panel-content{
+	text-align: center;
+	padding-top: 30%;
+}
+.x-panel-content .btn{
+	display: block;
+	width: 200px;
+	height:60px;
+	margin: 40px auto;
+	font-size: 20px;
+	line-height: 45px;
+}
+.x-panel{
+	background-image: url("./img/a.jpg");
+}
